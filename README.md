@@ -1,7 +1,7 @@
 <h1 align="center">Kevin Andrés Escobar</h1><h3 align="center">Futuro desarrollador de software 💻.</h3>-
 
-<h2>Actualmente estoy cursando la carrera de: "Desarrollo De Software" en la Universidad Del Valle🎓.</h2>
-<hr>
+<h3>Actualmente estoy cursando la carrera de: "Desarrollo De Software" en la Universidad Del Valle🎓.</h3>
+
 <h3>Perfil en construcción🔨...</h3>
 
 
