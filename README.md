@@ -1,6 +1,5 @@
-<h1 align="center">Hola 👋 , Soy Kevin Escobar</h1><h3 align="center">Un futuro desarrollador de software.</h3>- Actualmente estoy estudiando en la Universidad Del Valle (Sede Buga)- <hr>🔭 🌱 Actualmente estoy aprendiendo JAVA
+<h1 align="center">Kevin Andrés Escobar</h1><h3 align="center">Futuro desarrollador de software 💻.</h3>-
 
-<h3 align="left">
 
 Connect with me:</h3><p align="left"></p>
 
